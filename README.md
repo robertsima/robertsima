@@ -4,8 +4,6 @@ Java Full Stack Developer focused on building secure, maintainable web applicati
 
 I specialize in solutioning and implementing Spring Boot applications with OAuth2/OIDC, Keycloak, Spring Security, PostgreSQL, Liquibase, Docker/Podman, and cloud-native development patterns.
 
-My favorite part about being a developer is taking an idea and turning it into something real.
-
 ## Featured Projects
 
 ### Spring Boot Starter Template

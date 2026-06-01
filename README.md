@@ -1,26 +1,10 @@
-# Robert Sima
+# Robert Sima | [LinkedIn](https://www.linkedin.com/in/robert-sima/)
 
 I'm a Java Full Stack Developer who builds secure, maintainable web applications and backend services.
 
 In the past few years I've specialized in solutioning and implementing Spring Boot Microservices. I have hands-on experience with OAuth2, OIDC, Keycloak, Spring Security, PostgreSQL, Liquibase, Docker/Podman, and cloud-native development patterns.
 
 My favorite part about being a developer is taking an idea and turning it into something real. 
-
-## What I Work With
-
-### Backend
-Java, Spring Boot, Spring Security, REST APIs, OAuth2/OIDC, Keycloak, JPA/Hibernate, Liquibase
-### Frontend
-Angular, TypeScript, HTML, CSS, responsive UI development
-### Databases
-PostgreSQL, SQL Server, Oracle, MongoDB
-### DevOps and Tooling
-Docker, Podman, Maven, OpenAPI, Testcontainers, Jenkins
-
-## Current Focus
-- Building practical and useful microservices
-- Helping others with their projects
-- Having some fun by making projects that interest me
 
 ## Featured Projects
 ### Spring Boot Starter Template
@@ -39,5 +23,15 @@ A custom Python + Kivy GUI created to control a Galil machine using DMC - used t
 A collection of Java leetcode solutions.
 [View Repository](https://github.com/robertsima/neetcode-submissions)
 
-## LinkedIn
-- [LinkedIn](https://www.linkedin.com/in/robert-sima/)
+## Tech
+| Area | Tools |
+|---|---|
+| **Backend** | Java, Spring Boot, Spring Security, REST APIs, OAuth2/OIDC, Keycloak, JPA/Hibernate, Liquibase |
+| **Frontend** | Angular, TypeScript, HTML, CSS, responsive UI development |
+| **Databases** | PostgreSQL, SQL Server, Oracle, MongoDB |
+| **DevOps & Tooling** | Docker, Podman, Maven, OpenAPI, Testcontainers, Jenkins |
+
+## Current Focus
+- Building practical and useful microservices
+- Helping others with their projects
+- Having some fun by making projects that interest me

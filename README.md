@@ -6,8 +6,6 @@ I specialize in solutioning and implementing Spring Boot applications with OAuth
 
 My favorite part about being a developer is taking an idea and turning it into something real.
 
----
-
 ## Featured Projects
 
 ### Spring Boot Starter Template
@@ -61,8 +59,6 @@ A collection of Java LeetCode solutions focused on data structures, algorithms, 
 
 [View Repository](https://github.com/robertsima/neetcode-submissions)
 
----
-
 ## Tech
 
 | Area | Tools |
@@ -71,8 +67,6 @@ A collection of Java LeetCode solutions focused on data structures, algorithms, 
 | **Frontend** | Angular, TypeScript, HTML, CSS, responsive UI development |
 | **Databases** | PostgreSQL, SQL Server, Oracle, MongoDB |
 | **DevOps & Tooling** | Docker, Podman, Maven, OpenAPI, Testcontainers, Jenkins |
-
----
 
 ## Current Focus
 

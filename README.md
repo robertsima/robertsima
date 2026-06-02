@@ -6,6 +6,17 @@ I specialize in solutioning and implementing Spring Boot applications with OAuth
 
 ## Featured Projects
 
+### Log Streaming Service
+
+![Java](https://img.shields.io/badge/Java-17+-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Microservice-brightgreen)
+![Webhooks](https://img.shields.io/badge/Webhooks-Log%20Ingestion-orange)
+![JSON](https://img.shields.io/badge/JSON-Structured%20Logs-lightgrey)
+
+A Spring Boot microservice that receives JSON-formatted logs from connected applications through webhooks and sends alerts based on incoming log events.
+
+[View Repository](https://github.com/robertsima/log-stream-service)
+
 ### Spring Boot Starter Template
 
 ![Java](https://img.shields.io/badge/Java-17+-blue)
@@ -21,16 +32,16 @@ A production-minded Spring Boot starter template with PostgreSQL, Liquibase, Ope
 
 ---
 
-### Log Streaming Service
+### TensorFlow Inspirational Quote Model
 
-![Java](https://img.shields.io/badge/Java-17+-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Microservice-brightgreen)
-![Webhooks](https://img.shields.io/badge/Webhooks-Log%20Ingestion-orange)
-![JSON](https://img.shields.io/badge/JSON-Structured%20Logs-lightgrey)
+![Python](https://img.shields.io/badge/Python-Prototype-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Learning%20Project-orange)
+![NLP](https://img.shields.io/badge/NLP-Text%20Generation-lightgrey)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Experimental-brightgreen)
 
-A Spring Boot microservice that receives JSON-formatted logs from connected applications through webhooks and sends alerts based on incoming log events.
+An experimental TensorFlow project focused on learning the basics of machine learning, text preprocessing, and quote-style text generation. Built as a hands-on introduction to model-backed applications.
 
-[View Repository](https://github.com/robertsima/log-stream-service)
+[View Repository](https://github.com/robertsima/inspirational-quote-model)
 
 ---
 

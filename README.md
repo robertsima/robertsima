@@ -26,9 +26,22 @@ A Spring Boot microservice that receives JSON-formatted logs from connected appl
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-Integration%20Testing-orange)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-Contract%20First-green)
 
-A production-minded Spring Boot starter template with PostgreSQL, Liquibase, OpenAPI generation, Testcontainers, Docker/Podman support, and integration testing.
+A production-based Spring Boot starter template with PostgreSQL, Liquibase, OpenAPI generation, Testcontainers, Docker/Podman support, and integration testing.
 
 [View Repository](https://github.com/robertsima/spring-boot-starter-template)
+
+---
+
+### BJJ Timer: Jiu Jitsu Clock
+
+![Roku](https://img.shields.io/badge/Roku-TV%20App-purple)
+![BrightScript](https://img.shields.io/badge/BrightScript-Roku%20Development-blue)
+![SceneGraph](https://img.shields.io/badge/SceneGraph-UI-green)
+![Timer](https://img.shields.io/badge/Timer-Interval%20Training-orange)
+
+A Roku application built with BrightScript and SceneGraph that provides a configurable Brazilian Jiu-Jitsu round timer with adjustable rounds, break periods, countdowns, pause/resume controls, and training presets.
+
+[View Project](https://github.com/robertsima/bjj-timer-roku-info)
 
 ---
 
@@ -70,15 +83,15 @@ A collection of Java LeetCode solutions focused on data structures, algorithms, 
 
 ## Tech
 
-| Area | Tools |
-|---|---|
-| **Backend** | Java, Spring Boot, Spring Security, REST APIs, OAuth2/OIDC, Keycloak, JPA/Hibernate, Liquibase |
-| **Frontend** | Angular, TypeScript, HTML, CSS, responsive UI development |
-| **Databases** | PostgreSQL, SQL Server, Oracle, MongoDB |
-| **DevOps & Tooling** | Docker, Podman, Maven, OpenAPI, Testcontainers, Jenkins |
+| Area                 | Tools                                                                                          |
+| -------------------- | ---------------------------------------------------------------------------------------------- |
+| **Backend**          | Java, Spring Boot, Spring Security, REST APIs, OAuth2/OIDC, Keycloak, JPA/Hibernate, Liquibase |
+| **Frontend**         | Angular, TypeScript, HTML, CSS, responsive UI development                                      |
+| **Databases**        | PostgreSQL, SQL Server, Oracle, MongoDB                                                        |
+| **DevOps & Tooling** | Docker, Podman, Maven, OpenAPI, Testcontainers, Jenkins                                        |
 
 ## Current Focus
 
-- Building practical and useful microservices
-- Helping others bring their projects to life
-- Creating projects that are useful, interesting, and fun to build
+* Building practical and useful microservices
+* Helping others bring their projects to life
+* Creating projects that are useful, interesting, and fun to build

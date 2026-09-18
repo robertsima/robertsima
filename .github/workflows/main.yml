@@ -1,2 +1,9 @@
 - name: Metrics embed
   uses: lowlighter/metrics@v3.34
+  with:
+    filename: github-metrics.svg
+    token: ${{ secrets.GITHUB_TOKEN }}
+    user: robertsima
+    template: classic
+    base: header, repositories
+    config_timezone: America/New_York

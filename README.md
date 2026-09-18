@@ -44,7 +44,8 @@ A dog-training platform connecting trainers, clients, sessions, and operational 
 |---|---|:---:|---|
 | [Odysseus](https://github.com/robertsima/odysseus-main) | AI workspace and agent orchestration | 🟢 Active | [Actions](https://github.com/robertsima/odysseus-main/actions) |
 | [Umni](https://github.com/robertsima/umni) | Dog-training operations platform | 🟢 Active | Product development |
-| [BJJ Timer](https://github.com/robertsima/bjj-timer) | Training timer and round-management tool | 🔵 Published | 200+ downloads |
+| [BJJ Timer](https://github.com/robertsima/bjj-timer-roku-info) | Training timer and round-management tool | 🔵 Published | 200+ downloads |
+| [Prairie Log API](https://github.com/robertsima/log-stream-service) | Structured log ingestion and alerting service | 🟢 Active | [Repository](https://github.com/robertsima/log-stream-service) |
 
 <sub>Project status and health indicators are generated from a small versioned project catalog, not maintained by editing this table by hand.</sub>
 
@@ -74,11 +75,11 @@ I took the upstream AI workspace in a different direction: project-aware context
 
 A dog-training platform for trainers, clients, sessions, and operational data. The work is centered on turning a real workflow into a maintainable product.
 
-### Prairie Log API
+### [Prairie Log API](https://github.com/robertsima/log-stream-service)
 
-An API for collecting and working with structured logs. It is part of the backend and operational tooling work I have been building around reliable integrations.
+A structured log ingestion and alerting service. Applications send log events through an API, and the service groups related errors and routes useful summaries to integrations. This is the project I refer to as Prairie Log API or the log stream service.
 
-### [BJJ Timer](https://github.com/robertsima/bjj-timer)
+### [BJJ Timer](https://github.com/robertsima/bjj-timer-roku-info)
 
 A training timer built around rounds, intervals, and the practical needs of Brazilian jiu-jitsu sessions.
 

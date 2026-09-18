@@ -42,7 +42,7 @@ A dog-training platform connecting trainers, clients, sessions, and operational 
 
 | Project | Focus | Status | Signal |
 |---|---|:---:|---|
-| [Odysseus](https://github.com/robertsima/odysseus-main) | AI workspace and agent orchestration | 🟢 Active | [![Build](https://img.shields.io/github/actions/workflow/status/robertsima/odysseus-main/test.yml?style=flat-square&label=build)](https://github.com/robertsima/odysseus-main/actions) |
+| [Odysseus](https://github.com/robertsima/odysseus-main) | AI workspace and agent orchestration | 🟢 Active | [Actions](https://github.com/robertsima/odysseus-main/actions) |
 | [Umni](https://github.com/robertsima/umni) | Dog-training operations platform | 🟢 Active | Product development |
 | [BJJ Timer](https://github.com/robertsima/bjj-timer) | Training timer and round-management tool | 🔵 Published | 200+ downloads |
 
@@ -63,10 +63,6 @@ A dog-training platform connecting trainers, clients, sessions, and operational 
   <img src="https://raw.githubusercontent.com/robertsima/robertsima/main/github-metrics.svg" alt="GitHub activity metrics" width="90%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/robertsima/robertsima/main/profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile activity" width="49%" />
-  <img src="https://raw.githubusercontent.com/robertsima/robertsima/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Repositories by language" width="49%" />
-</p>
 
 ## Selected work
 

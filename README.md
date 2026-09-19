@@ -4,8 +4,11 @@
 
 ### I build backend systems, ai automation flows, and occasionally design frontends.
 
-[![GitHub](https://img.shields.io/badge/GitHub-robertsima-181717?style=flat-square&logo=github)](https://github.com/robertsima)
-[![Profile views](https://komarev.com/ghpvc/?username=robertsima&style=flat-square&color=2f81f7)](https://github.com/robertsima)
+<img
+  src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.plugin.skyline.svg"
+  alt="Robert Sima's GitHub Skyline"
+  width="800"
+/>
 
 </div>
 

@@ -28,11 +28,12 @@ jobs:
           base: header, metadata
 
           plugin_leetcode: yes
-          plugin_leetcode_user: robertsima
+          plugin_leetcode_user: YOUR_LEETCODE_USERNAME
           plugin_leetcode_sections: solved, skills, recent
 
           plugin_languages: yes
           plugin_languages_indepth: yes
+
           commits_authoring: Robert Sima, robertsima, robertsima@users.noreply.github.com
 
       - name: Generate GitHub Skyline
@@ -42,18 +43,10 @@ jobs:
           user: robertsima
 
           template: classic
-          filename: metrics.skyline.svg
+          filename: metrics.plugin.skyline.svg
           base: " "
 
           plugin_skyline: yes
           plugin_skyline_year: 2026
-          plugin_skyline_frames: 60
+          plugin_skyline_frames: 6
           plugin_skyline_quality: 0.5
-
-          plugin_skyline_settings: |
-            {
-              "url": "https://skyline.github.com/${login}/${year}",
-              "ready": "document.readyState === 'complete'",
-              "wait": 5,
-              "hide": "button, footer, a"
-            }

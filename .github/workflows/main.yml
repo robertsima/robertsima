@@ -28,7 +28,7 @@ jobs:
           base: header, metadata
 
           plugin_leetcode: yes
-          plugin_leetcode_user: YOUR_LEETCODE_USERNAME
+          plugin_leetcode_user: robertsima
           plugin_leetcode_sections: solved, skills, recent
 
           plugin_languages: yes

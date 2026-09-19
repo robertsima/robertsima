@@ -5,7 +5,7 @@
 ### I build backend systems, ai automation flows, and occasionally design frontends.
 
 <img
-  src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.plugin.skyline.svg"
+  src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.skyline.svg"
   alt="Robert Sima's GitHub Skyline"
   width="800"
 />

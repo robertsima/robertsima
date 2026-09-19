@@ -64,6 +64,12 @@ A dog-training platform connecting trainers, clients, sessions, and operational 
   <img src="https://raw.githubusercontent.com/robertsima/robertsima/main/github-metrics.svg" alt="GitHub activity metrics" width="90%" />
 </p>
 
+## GitHub terminal
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.terminal.svg" alt="GitHub metrics terminal" width="90%" />
+</p>
+
 
 ## Selected work
 

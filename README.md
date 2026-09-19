@@ -15,14 +15,14 @@
 ---
 <table>
   <tr>
-    <td width="55%" align="center" valign="middle">
-<img
-  src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.plugin.skyline.svg"
-  alt="Robert's GitHub Skyline for 2026"
-  width="800"
-/>
+    <td width="60%" align="center" valign="middle">
+      <img
+        src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.terminal.svg"
+        alt="GitHub coding metrics terminal"
+        width="500"
+      />
     </td>
-    <td width="45%" valign="middle">
+    <td width="40%" valign="middle">
       <code> Spring Boot </code>
       <code> Angular </code>
       <code> React </code>

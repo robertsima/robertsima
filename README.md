@@ -16,12 +16,7 @@
         <img src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.terminal.svg" alt="GitHub metrics     terminal" />
     </td>
     <td>
-      <h2>Programming Languages</h2>
-        <code>Java</code> 
-        <code>Typescript</code>
-        <code>JavaScript</code>
-        <code>Python</code>
-        <code>SQL</code>
+      <p> Hi, I'm Robert. If you're interested in taking a look at some of the projects I've built, scroll down! The terminal to the left will give you some stats related to coding languages I use. 
     </td>
   </tr>
 </table>

@@ -13,9 +13,7 @@
 <table>
   <tr>
     <td>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.terminal.svg" alt="GitHub metrics     terminal" width="65%" />
-      </p>
+        <img src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.terminal.svg" alt="GitHub metrics     terminal" />
     </td>
     <td>
       <h2>Programming Languages</h2>

@@ -12,13 +12,19 @@
 ---
 <table>
   <tr>
-    <td>
-      <p width=65%>
-        <img src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.terminal.svg" alt="GitHub metrics     terminal" />
-        </p>
+    <td width="55%" align="center" valign="middle">
+      <img
+        src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.terminal.svg"
+        alt="GitHub coding metrics terminal"
+        width="500"
+      />
     </td>
-    <td>
-      <p> Hi, I'm Robert. If you're interested in taking a look at some of the projects I've built, scroll down! The terminal to the left will give you some stats related to coding languages I use. 
+    <td width="45%" valign="middle">
+      <p>
+        Hi, I'm Robert. If you're interested in the projects I've built,
+        scroll down to explore them. The terminal shows some of the
+        programming languages I use most frequently.
+      </p>
     </td>
   </tr>
 </table>

@@ -21,8 +21,8 @@
     </td>
     <td width="45%" valign="middle">
       <p>
-        Hi, I'm Robert. If you're interested in the projects I've built,
-        scroll down to explore them. The terminal shows some of the
+        Hi, if you're interested in the projects I've built,
+        scroll down! The terminal to the left shows some of the
         programming languages I use most frequently.
       </p>
     </td>

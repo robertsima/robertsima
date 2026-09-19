@@ -23,11 +23,18 @@
       />
     </td>
     <td width="45%" valign="middle">
-      <p>
-        Hi, if you're interested in the projects I've built,
-        scroll down! The terminal to the left shows some of the
-        programming languages I use most frequently.
-      </p>
+      <code> Spring Boot </code>
+      <code> Angular </code>
+      <code> React </code>
+      <code> PostgresSQL </code>
+      <code> Liquibase </code>
+      <code> Docker </code>
+      <code> Kubernetes </code>
+      <code> Keycloak </code>
+      <code> OpenAPI </code>
+      <code> MCP </code>
+      <code> RAG </code>
+      <code> Embedding </code>
     </td>
   </tr>
 </table>

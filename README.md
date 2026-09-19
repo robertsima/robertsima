@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td>
-      <p width = "65%">
+      <p width=65%>
         <img src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.terminal.svg" alt="GitHub metrics     terminal" />
         </p>
     </td>

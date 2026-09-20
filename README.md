@@ -7,7 +7,7 @@
 <img
   src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.plugin.skyline.svg"
   alt="Robert's GitHub Skyline for 2026"
-  width="250"
+  width="420"
 />
 
 </div>

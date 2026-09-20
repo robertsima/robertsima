@@ -26,7 +26,11 @@ jobs:
           template: terminal
           filename: metrics.terminal.svg
           base: header, metadata
-
+          
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_habits: yes
+          
           commits_authoring: Robert Sima, robertsima, robertsima@users.noreply.github.com
           
       - name: Generate LeetCode metrics

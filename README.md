@@ -71,35 +71,29 @@ My fork of an AI workspace, extended with better context and retrieval, persiste
 
 | Development Tech | Scope | Examples |
 |---|---|---|
-| Spring Boot | Backend services, REST APIs, and event-driven applications | [Log Stream Service](https://github.com/robertsima/log-stream-service), [UMNI](https://github.com/robertsima/umni) |
-| Angular | Frontend web application development | Work |
+| Spring Boot | Backend services, REST APIs, and event-driven applications | [Log Stream Service](https://github.com/robertsima/log-stream-service), [UMNI](https://github.com/robertsima/umni), IBM|
+| Angular | Frontend web application development | IBM |
 | React | Frontend user interfaces and dashboard development | [UMNI](https://github.com/robertsima/umni) |
 | Flask / Kivy | Python web backends, desktop interfaces, and harness tooling | [Odysseus](https://github.com/robertsima/odysseus-main), [DMC UI](https://github.com/daniil-nguyen17/PythonDMCGUI) |
 | BrightScript + SceneGraph | Roku application development and custom TV interfaces | [BJJ Timer](https://github.com/robertsima/bjj-timer-roku-info) |
 | Android Studio / Java | Android plugin development for ATAK, including field-sync functionality | [ATAK FieldSync](https://github.com/robertsima/atak-fieldsync) |
 
-## Projects
-
-### [Odysseus](https://github.com/robertsima/odysseus-main)
-
-I took the upstream AI workspace in a different direction: project-aware context maps, retrieval and tool routing, agent orchestration, lifecycle visibility, and verified handoffs. The fork is focused on coordinating specialized agents and keeping the work understandable after the run is over.
-
-### [Umni](https://github.com/robertsima/umni)
-
-A dog-training platform for trainers, clients, sessions, and operational data. The work is centered on turning a real workflow into a maintainable product.
-
-### [Prairie Log API](https://github.com/robertsima/log-stream-service)
-
-A structured log ingestion and alerting service. Applications send log events through an API, and the service groups related errors and routes useful summaries to integrations. This is the project I refer to as Prairie Log API or the log stream service.
+## More Projects
 
 ### [BJJ Timer](https://github.com/robertsima/bjj-timer-roku-info)
 
-A training timer built around rounds, intervals, and the practical needs of Brazilian jiu-jitsu sessions.
+I do BJJ as a hobby and I am a blue belt. One day my coach bought a roku tv in hopes of using it as a second timer for the gym's training sessions. Unfortunately, there were no BJJ timer apps available for free so unfortunately the TV sat there as we used the old timer. 
+
+So, I decided to make one - our gym uses it daily. This is a multi purpose training timer built for interval sessions, customized for the practical needs of Brazilian jiu-jitsu sessions with some pre-set options. As of 09/19/2026 the app has 433 cumulative installs worldwide, 1605 hours streamed total, and averages 38 minutes per viewer. 
+
+### [Prairie Log API](https://github.com/robertsima/log-stream-service)
+
+I built a log streaming service using Kafka that allows smaller indie devs to know when their app breaks. The service detects errors, batches messages that are related then sends them to an LLM for an analysis. Users get smart alerts + analysis through their configured slack and discord webhooks so they can quickly find and troubleshoot their issues. 
 
 <img
   src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.plugin.leetcode.svg"
   alt="Robert's LeetCode statistics"
-  width="800"
+  width=600
 />
 
 ## Contact

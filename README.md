@@ -19,7 +19,7 @@
       <img
         src="https://raw.githubusercontent.com/robertsima/robertsima/main/metrics.terminal.svg"
         alt="GitHub coding metrics terminal"
-        width="600"
+        width="700"
       />
     </td>
     <td width="40%" valign="middle">
